@@ -59,7 +59,7 @@ group :jekyll_plugins do
   gem "jekyll-last-modified-at"
   gem "jekyll-compose"
   # Used to translate the site
-  gem "jekyll-polyglot"
+  #gem "jekyll-polyglot"
 end
 
 gem 'wdm' if Gem.win_platform?
