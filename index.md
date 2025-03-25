@@ -18,7 +18,7 @@ Hi, I'm Edgardo "Edo" Bermudez, a Software Engineer turned into Product Manageme
 ## About Me
 ![About Me](assets/img/about-me.jpg)
 
-I’m a [Your Profession] with a passion for [Your Interests]. With 15+ years of experience in [Your Field], I specialize in [Your Skills]. When I’m not working, I enjoy [Your Hobbies].
+I’m a [Your Profession] with a passion for tech. With 15+ years of experience in [Your Field], I specialize in [Your Skills]. When I’m not working, I enjoy [Your Hobbies].
 
 ---
 
@@ -46,6 +46,7 @@ I write about [topics you write about]. Check out my latest posts:
 ---
 
 ## Get in Touch
+
 I’d love to hear from you! Whether you have a question, want to collaborate, or just want to say hi, feel free to reach out.
 
 [Contact Me →](contact/)
