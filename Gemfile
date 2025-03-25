@@ -42,6 +42,10 @@ gem "webrick"
 # Uncomment when using the `--lsi` option for `jekyll build`
 # gem "classifier-reborn"
 
+# logger added because it won't be part of the default gems in Ruby 3.5.0
+gem 'logger'
+gem 'observer' 
+
 group :jekyll_plugins do
   gem "jekyll-default-layout"
   gem "jekyll-feed"
